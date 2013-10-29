@@ -3,13 +3,15 @@ YSStatusBar
 
 Slidable status bar to display a message like MailBox app.
 
+![YSStatusBar](http://s24.postimg.org/4br9s7nth/i_OS_2013_10_29_17_20_46.png)
+
 ## Installation
 
 * Drag the `YSStatusBar/YSStatusBar` folder into your project.
 * Add #include "YSStatusBar.h" to your .pch file
 
 
-# Usage
+## Usage
 
 YSStatusBar is a singleton. Make sure your view displays the default status bar
 for this to be effective. I defaulted the colors to match defalut. Change if
