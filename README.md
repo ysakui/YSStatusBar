@@ -5,6 +5,11 @@ Slidable status bar to display a message like MailBox app.
 
 ![YSStatusBar](http://s11.postimg.org/wrhhmm6cz/i_OS_2013_10_29_17_20_46.png)
 
+## Notice
+
+YSStatusBar makes use of the "UIGetScreenImage()"
+Please be aware that there is likely to be reject the appraisal of Apple.
+
 ## Installation
 
 * Drag the `YSStatusBar/YSStatusBar` folder into your project.
