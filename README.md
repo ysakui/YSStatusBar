@@ -3,7 +3,7 @@ YSStatusBar
 
 Slidable status bar to display a message like MailBox app.
 
-![YSStatusBar](http://s24.postimg.org/4br9s7nth/i_OS_2013_10_29_17_20_46.png)
+![YSStatusBar](http://s11.postimg.org/wrhhmm6cz/i_OS_2013_10_29_17_20_46.png)
 
 ## Installation
 
